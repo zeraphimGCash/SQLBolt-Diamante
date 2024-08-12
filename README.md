@@ -1,6 +1,9 @@
 # SQLBolt-Diamante
 
 by: `JC Diamante`
+<br><br>
+This repository contains my answers to SQLBolt's Introduction to SQL Activities <br><br>
+<b>SQLBolt</b> - https://sqlbolt.com/lesson/introduction
 
 ## Review 1 - Tasks
 ### 1. List all the Canadian cities and their populations
